@@ -1,0 +1,30 @@
+Cell Size Measurements
+ImageJ, set pixel size to (0.623084 um/pixel)
+Fit Ellipse - Extract major and minor axes
+Rotate about minor axis to get volume
+Measurements are in um
+
+25 cells per cell line
+
+MDAMB468
+From experiment 20160318
+Well B02
+Transmitted Light - n000003.tif
+
+MDAMB453
+From experiment 20160320
+Well B11
+Transmitted Light - n000053.tif
+
+MDAMB231
+From experiment 20160908
+Well B11
+Transmitted Light - n000093.tif
+
+SUM149
+From experiment 20160413
+Well B11
+Transmitted Light - n000002.tif
+(Cell 22 to end was measured in B10)
+Well B10
+Transmitted Light - n000002.tif

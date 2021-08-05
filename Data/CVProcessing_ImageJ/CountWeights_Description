@@ -1,0 +1,5 @@
+CountWeights
+
+Lists number of 'good' timepoints before confluence is reached
+Weight all timepoints up to and including specified timepoint as 1
+All subsequent timepoints should have no weight in fits

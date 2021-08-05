@@ -1,0 +1,11 @@
+Compartment model notes
+
+MDAMB231; 4/12/2016 Experiment
+Lots of cells lost following media changes
+No cells left in well 13 after media changes
+
+SUM149; 3/17/2016 Experiment
+Well 11, Images 6, 16, 17 are bad
+
+MDAMB453; 3/20/2016
+TP53 (index 54) have brightfield image in place of fluorescent image in all wells
